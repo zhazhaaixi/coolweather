@@ -8,6 +8,10 @@ public class City extends LitePalSupport {
     private int cityCode;
     private int provinceId;
 
+    public City(){
+
+    }
+
     public City(int id, String cityName, int cityCode, int provinceId) {
         this.id = id;
         this.cityName = cityName;

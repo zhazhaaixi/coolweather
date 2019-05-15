@@ -8,6 +8,10 @@ public class County extends LitePalSupport {
     private String weatherId;
     private int cityId;
 
+    public County(){
+
+    }
+
     public County(int id, String countyName, String weatherId, int cityId) {
         this.id = id;
         this.countyName = countyName;

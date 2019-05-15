@@ -5,7 +5,7 @@
 
     <list>
         <mapping class="com.zhazhaaixi.coolweather.db.Province"/>
-        <mapping class="ccom.zhazhaaixi.coolweather.db.County"/>
+        <mapping class="com.zhazhaaixi.coolweather.db.County"/>
         <mapping class="com.zhazhaaixi.coolweather.db.City"/>
 
     </list>

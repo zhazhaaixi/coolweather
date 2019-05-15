@@ -7,6 +7,10 @@ public class Province extends LitePalSupport {
     private String provinceName;
     private int provinceCode;
 
+    public Province(){
+
+    }
+
     public Province(int id, String provinceName, int provinceCode) {
         this.id = id;
         this.provinceName = provinceName;
